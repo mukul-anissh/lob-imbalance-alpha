@@ -13,10 +13,15 @@ If yes, can this information align with positive mark to mid returns under simpl
 
 ## Data
 Instrument: BTCUSDT
+
 Venue: Binance
+
 Date: 14-02-2024
+
 Data type: Level-1 best bid/ask updates
+
 Time index: event time (row order)
+
 Dataset size: 45.27 million updates
 
 ## Preprocessing steps
