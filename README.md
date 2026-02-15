@@ -142,7 +142,7 @@ Run notebooks in order:
 3. trading_simulation.ipynb
 
 ## Takeaway
-This project demonstrates an end-to-end research pipeline:
+This project demonstrates an end to end research pipeline:
 
 $$
 \text{data validation} → \text{feature construction} → \text{forward labeling} → \text{conditional statistics} → \text{economic translation}​
